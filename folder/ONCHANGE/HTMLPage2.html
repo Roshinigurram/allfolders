@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form action="https://www.w3schools.com/html/default.asp" method="get" onsubmit= "return HelloFun()">
+    enter your name: <input type="text" name="txtname" id="txtname" />
+    <input type="button" name="btn" id="btn" value="submit" />
+
+    <script type="text/javascript">
+
+        function HelloFun()
+    {
+            if (document.getElementById("txtname").value == "roshini") {
+                return true;
+            }
+            else {
+                alert("Write \"roshini\" in the textbox");
+            }
+        return false;
+    }
+    }
+   
+    </script>
+
+</form>
+
+   
+
+
+</body>
+</html>

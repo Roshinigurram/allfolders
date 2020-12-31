@@ -1,0 +1,13 @@
+D:\roshini\folder\taskexample\taskexample\bin\Debug\netcoreapp3.1\taskexample.exe
+D:\roshini\folder\taskexample\taskexample\bin\Debug\netcoreapp3.1\taskexample.deps.json
+D:\roshini\folder\taskexample\taskexample\bin\Debug\netcoreapp3.1\taskexample.runtimeconfig.json
+D:\roshini\folder\taskexample\taskexample\bin\Debug\netcoreapp3.1\taskexample.runtimeconfig.dev.json
+D:\roshini\folder\taskexample\taskexample\bin\Debug\netcoreapp3.1\taskexample.dll
+D:\roshini\folder\taskexample\taskexample\bin\Debug\netcoreapp3.1\taskexample.pdb
+D:\roshini\folder\taskexample\taskexample\obj\Debug\netcoreapp3.1\taskexample.csprojAssemblyReference.cache
+D:\roshini\folder\taskexample\taskexample\obj\Debug\netcoreapp3.1\taskexample.AssemblyInfoInputs.cache
+D:\roshini\folder\taskexample\taskexample\obj\Debug\netcoreapp3.1\taskexample.AssemblyInfo.cs
+D:\roshini\folder\taskexample\taskexample\obj\Debug\netcoreapp3.1\taskexample.csproj.CoreCompileInputs.cache
+D:\roshini\folder\taskexample\taskexample\obj\Debug\netcoreapp3.1\taskexample.dll
+D:\roshini\folder\taskexample\taskexample\obj\Debug\netcoreapp3.1\taskexample.pdb
+D:\roshini\folder\taskexample\taskexample\obj\Debug\netcoreapp3.1\taskexample.genruntimeconfig.cache

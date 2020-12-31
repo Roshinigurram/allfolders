@@ -1,0 +1,13 @@
+D:\roshini\practiseeee\practiseeee\bin\Debug\netcoreapp3.1\practiseeee.exe
+D:\roshini\practiseeee\practiseeee\bin\Debug\netcoreapp3.1\practiseeee.deps.json
+D:\roshini\practiseeee\practiseeee\bin\Debug\netcoreapp3.1\practiseeee.runtimeconfig.json
+D:\roshini\practiseeee\practiseeee\bin\Debug\netcoreapp3.1\practiseeee.runtimeconfig.dev.json
+D:\roshini\practiseeee\practiseeee\bin\Debug\netcoreapp3.1\practiseeee.dll
+D:\roshini\practiseeee\practiseeee\bin\Debug\netcoreapp3.1\practiseeee.pdb
+D:\roshini\practiseeee\practiseeee\obj\Debug\netcoreapp3.1\practiseeee.csprojAssemblyReference.cache
+D:\roshini\practiseeee\practiseeee\obj\Debug\netcoreapp3.1\practiseeee.AssemblyInfoInputs.cache
+D:\roshini\practiseeee\practiseeee\obj\Debug\netcoreapp3.1\practiseeee.AssemblyInfo.cs
+D:\roshini\practiseeee\practiseeee\obj\Debug\netcoreapp3.1\practiseeee.csproj.CoreCompileInputs.cache
+D:\roshini\practiseeee\practiseeee\obj\Debug\netcoreapp3.1\practiseeee.dll
+D:\roshini\practiseeee\practiseeee\obj\Debug\netcoreapp3.1\practiseeee.pdb
+D:\roshini\practiseeee\practiseeee\obj\Debug\netcoreapp3.1\practiseeee.genruntimeconfig.cache

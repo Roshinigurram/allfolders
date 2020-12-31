@@ -1,0 +1,13 @@
+D:\roshini\parallelprogrammin\parallelprogrammin\bin\Debug\netcoreapp3.1\parallelprogrammin.exe
+D:\roshini\parallelprogrammin\parallelprogrammin\bin\Debug\netcoreapp3.1\parallelprogrammin.deps.json
+D:\roshini\parallelprogrammin\parallelprogrammin\bin\Debug\netcoreapp3.1\parallelprogrammin.runtimeconfig.json
+D:\roshini\parallelprogrammin\parallelprogrammin\bin\Debug\netcoreapp3.1\parallelprogrammin.runtimeconfig.dev.json
+D:\roshini\parallelprogrammin\parallelprogrammin\bin\Debug\netcoreapp3.1\parallelprogrammin.dll
+D:\roshini\parallelprogrammin\parallelprogrammin\bin\Debug\netcoreapp3.1\parallelprogrammin.pdb
+D:\roshini\parallelprogrammin\parallelprogrammin\obj\Debug\netcoreapp3.1\parallelprogrammin.csprojAssemblyReference.cache
+D:\roshini\parallelprogrammin\parallelprogrammin\obj\Debug\netcoreapp3.1\parallelprogrammin.AssemblyInfoInputs.cache
+D:\roshini\parallelprogrammin\parallelprogrammin\obj\Debug\netcoreapp3.1\parallelprogrammin.AssemblyInfo.cs
+D:\roshini\parallelprogrammin\parallelprogrammin\obj\Debug\netcoreapp3.1\parallelprogrammin.csproj.CoreCompileInputs.cache
+D:\roshini\parallelprogrammin\parallelprogrammin\obj\Debug\netcoreapp3.1\parallelprogrammin.dll
+D:\roshini\parallelprogrammin\parallelprogrammin\obj\Debug\netcoreapp3.1\parallelprogrammin.pdb
+D:\roshini\parallelprogrammin\parallelprogrammin\obj\Debug\netcoreapp3.1\parallelprogrammin.genruntimeconfig.cache

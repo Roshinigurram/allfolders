@@ -1,0 +1,13 @@
+D:\roshini\folder\threadexample\threadexample\bin\Debug\netcoreapp3.1\threadexample.exe
+D:\roshini\folder\threadexample\threadexample\bin\Debug\netcoreapp3.1\threadexample.deps.json
+D:\roshini\folder\threadexample\threadexample\bin\Debug\netcoreapp3.1\threadexample.runtimeconfig.json
+D:\roshini\folder\threadexample\threadexample\bin\Debug\netcoreapp3.1\threadexample.runtimeconfig.dev.json
+D:\roshini\folder\threadexample\threadexample\bin\Debug\netcoreapp3.1\threadexample.dll
+D:\roshini\folder\threadexample\threadexample\bin\Debug\netcoreapp3.1\threadexample.pdb
+D:\roshini\folder\threadexample\threadexample\obj\Debug\netcoreapp3.1\threadexample.csprojAssemblyReference.cache
+D:\roshini\folder\threadexample\threadexample\obj\Debug\netcoreapp3.1\threadexample.AssemblyInfoInputs.cache
+D:\roshini\folder\threadexample\threadexample\obj\Debug\netcoreapp3.1\threadexample.AssemblyInfo.cs
+D:\roshini\folder\threadexample\threadexample\obj\Debug\netcoreapp3.1\threadexample.csproj.CoreCompileInputs.cache
+D:\roshini\folder\threadexample\threadexample\obj\Debug\netcoreapp3.1\threadexample.dll
+D:\roshini\folder\threadexample\threadexample\obj\Debug\netcoreapp3.1\threadexample.pdb
+D:\roshini\folder\threadexample\threadexample\obj\Debug\netcoreapp3.1\threadexample.genruntimeconfig.cache

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+    <script>
+        function ConfirmMe() {
+            var conf = confirm('Are you sure to proceed?');
+            return conf;
+        }
+    </script>
+
+</head>
+<body>
+    <form method="post" action="HtmlPage1.html">
+        <table cellpadding="5" cellspacing="2" border="1" style="border-collapse:collapse;">
+            <tr>
+                <th colspan="2" style="background-color:antiquewhite;">Login</th>
+            </tr>
+            <tr>
+                <td>Username</td>
+                <td>
+                    <input type="text" name="userName" />
+                </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>
+                    <input type="password" name="Passwrod" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td>
+                    <input type="submit" value="Login" onclick="return ConfirmMe()" />
+                </td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

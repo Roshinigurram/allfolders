@@ -1,0 +1,13 @@
+D:\roshini\folder\filesexmple\filesexmple\obj\Debug\netcoreapp3.1\filesexmple.csprojAssemblyReference.cache
+D:\roshini\folder\filesexmple\filesexmple\obj\Debug\netcoreapp3.1\filesexmple.AssemblyInfoInputs.cache
+D:\roshini\folder\filesexmple\filesexmple\obj\Debug\netcoreapp3.1\filesexmple.AssemblyInfo.cs
+D:\roshini\folder\filesexmple\filesexmple\obj\Debug\netcoreapp3.1\filesexmple.csproj.CoreCompileInputs.cache
+D:\roshini\folder\filesexmple\filesexmple\bin\Debug\netcoreapp3.1\filesexmple.exe
+D:\roshini\folder\filesexmple\filesexmple\bin\Debug\netcoreapp3.1\filesexmple.deps.json
+D:\roshini\folder\filesexmple\filesexmple\bin\Debug\netcoreapp3.1\filesexmple.runtimeconfig.json
+D:\roshini\folder\filesexmple\filesexmple\bin\Debug\netcoreapp3.1\filesexmple.runtimeconfig.dev.json
+D:\roshini\folder\filesexmple\filesexmple\bin\Debug\netcoreapp3.1\filesexmple.dll
+D:\roshini\folder\filesexmple\filesexmple\bin\Debug\netcoreapp3.1\filesexmple.pdb
+D:\roshini\folder\filesexmple\filesexmple\obj\Debug\netcoreapp3.1\filesexmple.dll
+D:\roshini\folder\filesexmple\filesexmple\obj\Debug\netcoreapp3.1\filesexmple.pdb
+D:\roshini\folder\filesexmple\filesexmple\obj\Debug\netcoreapp3.1\filesexmple.genruntimeconfig.cache

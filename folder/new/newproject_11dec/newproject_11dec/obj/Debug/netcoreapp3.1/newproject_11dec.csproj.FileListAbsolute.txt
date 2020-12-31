@@ -1,0 +1,13 @@
+D:\new\newproject_11dec\newproject_11dec\bin\Debug\netcoreapp3.1\newproject_11dec.exe
+D:\new\newproject_11dec\newproject_11dec\bin\Debug\netcoreapp3.1\newproject_11dec.deps.json
+D:\new\newproject_11dec\newproject_11dec\bin\Debug\netcoreapp3.1\newproject_11dec.runtimeconfig.json
+D:\new\newproject_11dec\newproject_11dec\bin\Debug\netcoreapp3.1\newproject_11dec.runtimeconfig.dev.json
+D:\new\newproject_11dec\newproject_11dec\bin\Debug\netcoreapp3.1\newproject_11dec.dll
+D:\new\newproject_11dec\newproject_11dec\bin\Debug\netcoreapp3.1\newproject_11dec.pdb
+D:\new\newproject_11dec\newproject_11dec\obj\Debug\netcoreapp3.1\newproject_11dec.csprojAssemblyReference.cache
+D:\new\newproject_11dec\newproject_11dec\obj\Debug\netcoreapp3.1\newproject_11dec.AssemblyInfoInputs.cache
+D:\new\newproject_11dec\newproject_11dec\obj\Debug\netcoreapp3.1\newproject_11dec.AssemblyInfo.cs
+D:\new\newproject_11dec\newproject_11dec\obj\Debug\netcoreapp3.1\newproject_11dec.csproj.CoreCompileInputs.cache
+D:\new\newproject_11dec\newproject_11dec\obj\Debug\netcoreapp3.1\newproject_11dec.dll
+D:\new\newproject_11dec\newproject_11dec\obj\Debug\netcoreapp3.1\newproject_11dec.pdb
+D:\new\newproject_11dec\newproject_11dec\obj\Debug\netcoreapp3.1\newproject_11dec.genruntimeconfig.cache

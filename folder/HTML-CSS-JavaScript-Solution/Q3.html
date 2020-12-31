@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function GetMyState() {
+            var city = prompt("Enter your city name?");
+            var state = '';
+            if (city != null) {
+                switch (city) {
+                    case "Hyd":
+                        state = "Telangana";
+                        break;
+                    case "Ranchi":
+                        state = "Jharkhand";
+                        break;
+                    default:
+                        state = "Wrong city name. Couldn't get the details";
+                        break;
+                }
+                document.getElementById("lblResult").innerHTML = state;
+            }
+
+        }
+    </script>
+</head>
+<body>
+
+    <form action="HtmlPage1.html" method="post">
+        <input type="button" value="Click Me to get your state" onclick="GetMyState()" />
+
+        <p>
+            You are from <label id="lblResult" style="background-color:yellow;color:red;">Click button to get the state name</label>.
+        </p>
+
+    </form>
+
+</body>
+</html>

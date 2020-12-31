@@ -1,0 +1,13 @@
+C:\Users\rgurram\source\repos\int32max\int32max\obj\Debug\netcoreapp3.1\int32max.csprojAssemblyReference.cache
+C:\Users\rgurram\source\repos\int32max\int32max\obj\Debug\netcoreapp3.1\int32max.AssemblyInfoInputs.cache
+C:\Users\rgurram\source\repos\int32max\int32max\obj\Debug\netcoreapp3.1\int32max.AssemblyInfo.cs
+C:\Users\rgurram\source\repos\int32max\int32max\obj\Debug\netcoreapp3.1\int32max.csproj.CoreCompileInputs.cache
+C:\Users\rgurram\source\repos\int32max\int32max\bin\Debug\netcoreapp3.1\int32max.exe
+C:\Users\rgurram\source\repos\int32max\int32max\bin\Debug\netcoreapp3.1\int32max.deps.json
+C:\Users\rgurram\source\repos\int32max\int32max\bin\Debug\netcoreapp3.1\int32max.runtimeconfig.json
+C:\Users\rgurram\source\repos\int32max\int32max\bin\Debug\netcoreapp3.1\int32max.runtimeconfig.dev.json
+C:\Users\rgurram\source\repos\int32max\int32max\bin\Debug\netcoreapp3.1\int32max.dll
+C:\Users\rgurram\source\repos\int32max\int32max\bin\Debug\netcoreapp3.1\int32max.pdb
+C:\Users\rgurram\source\repos\int32max\int32max\obj\Debug\netcoreapp3.1\int32max.dll
+C:\Users\rgurram\source\repos\int32max\int32max\obj\Debug\netcoreapp3.1\int32max.pdb
+C:\Users\rgurram\source\repos\int32max\int32max\obj\Debug\netcoreapp3.1\int32max.genruntimeconfig.cache

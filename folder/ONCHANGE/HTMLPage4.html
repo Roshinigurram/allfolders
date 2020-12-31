@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <form action="Alert.htm" method="post" onsubmit="return CallFunction()">
+
+        Enter your name: <input type="text" name="txtName" id="txtName" />
+        <input type="button" id="btn" name="btn" value="Submit" />
+
+        <script type="text/javascript">
+
+        function CallFunction()
+        {
+    if (document.getElementById("txtName").value == "itfunda")
+    {
+        return true;
+    }
+    else
+    {
+        alert("Write \"itfunda\" in the textbox");
+        return false;
+    }
+        }
+        </script>
+    </form>
+
+    
+</body>
+</html>

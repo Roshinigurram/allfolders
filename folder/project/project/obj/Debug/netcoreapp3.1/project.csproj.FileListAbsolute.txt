@@ -1,0 +1,13 @@
+D:\roshini\project\project\bin\Debug\netcoreapp3.1\project.exe
+D:\roshini\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+D:\roshini\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+D:\roshini\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+D:\roshini\project\project\bin\Debug\netcoreapp3.1\project.dll
+D:\roshini\project\project\bin\Debug\netcoreapp3.1\project.pdb
+D:\roshini\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+D:\roshini\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+D:\roshini\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+D:\roshini\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+D:\roshini\project\project\obj\Debug\netcoreapp3.1\project.dll
+D:\roshini\project\project\obj\Debug\netcoreapp3.1\project.pdb
+D:\roshini\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7BB7FDD7-2D71-41A7-BA72-BBE4AE2464F5}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+		HTMLPage10.html = HTMLPage10.html
+		HTMLPage11.html = HTMLPage11.html
+		HTMLPage12.html = HTMLPage12.html
+		HTMLPage2.html = HTMLPage2.html
+		HTMLPage3.html = HTMLPage3.html
+		HTMLPage4.html = HTMLPage4.html
+		HTMLPage5.html = HTMLPage5.html
+		HTMLPage6.html = HTMLPage6.html
+		HTMLPage7.html = HTMLPage7.html
+		HTMLPage8.html = HTMLPage8.html
+		HTMLPage9.html = HTMLPage9.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926C42BE-18C4-4480-AA27-85CAA58FE087}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+</head>
+<body>
+
+
+    Enter your name: <input type="text" name="txtName" id="txtName"
+                            onchange="CallFunction(this.id)" />
+    <input type="button" id="btn" name="btn" value="Submit" />
+    <hr />
+    TextBox value: <label id="lblText"></label>
+
+    <script type="text/javascript">
+        function CallFunction(id) {
+            document.getElementById("lblText").innerHTML =
+                document.getElementById(id).value;
+
+</body >
+</html >
